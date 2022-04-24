@@ -2,22 +2,19 @@
 
 ---
 
-### Category Name 1 
+### Project Lapangan 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Projek Pembuatan Turbin Savonius](/sample_page)
+<img src="4.jpg?raw=true"/>
+<img src="1 dua.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Pantai](http://example.com/)
+<img src="13.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Category Name
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
